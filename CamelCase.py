@@ -7,7 +7,7 @@ def display_banner():
 def main():
     display_banner()
 
-    print('Enter a sentence to convert to camelCase!')
+    print('Enter a sentence to convert to camelCase')
     
     sentence = input('Enter a sentence: ')
 
